@@ -6,8 +6,6 @@ Aim: Creating my own custom transformer, familiarizing with scikit-learn pipelin
 
 Model: Stacked Classifier( Base estimators: Random Forest, SVC . Final estimator: Logistic Regression) Note: models hyperparameters are tuned
 
-Pipeline Schema
-
 
 
 
