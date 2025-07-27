@@ -27,6 +27,10 @@ Kaggle Ranking: 1641 of 3638 (26/7/2025)
 
 ## Web App 
 
+<img width="1903" height="830" alt="image" src="https://github.com/user-attachments/assets/a154bb5c-3774-4d05-aea0-a1bdeee08a46" />
+<img width="1868" height="622" alt="image" src="https://github.com/user-attachments/assets/ad2d195c-ec86-4845-a5ba-7e4021d04e74" />
+
+
 
 ## License
 
