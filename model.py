@@ -158,7 +158,10 @@ def hyperparameter_search(model, param_grid, X_train, y_train, X_test, y_test,pr
     return rs.best_params_,results
 
 
-train_df=pd.read_csv(r'C:\Users\darre\OneDrive\Desktop\proj\train_df.csv')
+import os
+# Use a relative path to the CSV file
+current_dir = os.path.dirname(os.path.abspath(__file__))
+train_df = pd.read_csv(os.path.join(current_dir, 'train_df.csv'))
 
 train_df.drop(columns=['Unnamed: 0'],inplace=True)
 
