@@ -24,7 +24,8 @@ st.title("Personality Prediction App")
 st.markdown("""
 This app predicts personality traits (Introvert/Extrovert) based on social behavior patterns. \n
 Adjust the sliders and selectors below and click 'Predict' to see the results. \n
-Trained Model: 97% accuracy on untrained data https://www.kaggle.com/competitions/playground-series-s5e7
+Trained Model: 97% accuracy on untrained data https://www.kaggle.com/competitions/playground-series-s5e7 \n
+Github repo: https://github.com/dsrrenCodes/Personality-Detector
 """)
 
 # Create a form for user input
