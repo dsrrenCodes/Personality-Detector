@@ -6,7 +6,7 @@ Aim: Creating my own custom transformer, familiarizing with scikit-learn pipelin
 
 Model: Stacked Classifier( Base estimators: Random Forest, SVC . Final estimator: Logistic Regression) Note: models hyperparameters are tuned
 
-
+app web link : https://personality-detector.streamlit.app/
 
 
 ## Pipeline Schema
@@ -25,7 +25,7 @@ Kaggle Ranking: 1641 of 3638 (26/7/2025)
 
 
 
-## Streamlit
+## Web App 
 
 
 ## License
